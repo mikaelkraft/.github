@@ -1,30 +1,107 @@
-<em>Know this... Know peace...</em>
-<blockquote>This is not by accident: To whom a browser is given, a search is expected.</blockquote>
-<h1 align="center">Hi 👋, This is Wisdom (Mikael Kraft)</h1>
-<h3 align="center">A passionate fullstack developer agency ready to explore your world with you.</h3> <h2>Relive your ideas in reality with us; may your days always remain joyous.</h2>
+<!-- 
+✨ Make your day brighter with a dash of code, creativity, and cookies! ✨ 
+-->
 
-- 🔭 I’m currently working on some Blockchain and Social Marketing app. [This Digital Wrld Clock and Music player is dedicated to Juice Wrld](https://ivytag101.github.io/dwc)
+<div align="center">
+  <!-- Fanciful, futuristic cyberpunk/cybertech gif for a captivating intro -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Futuristic Cyberpunk Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+Operator+%7C+Student;Footballer+%E2%9A%BD%EF%B8%8F+%7C+Puzzle+Enthusiast+%F0%9F%8E%B2;Let's+build+something+awesome+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently seeking BSC in **Computer Sciences**
+---
 
-- 👨‍💻 All of my projects links will be made available soon. [#ivytag world](#ivytag.world)
+<em>
+  Know this... Know peace...
+</em>
+<blockquote>
+  This is not by accident: To whom a browser is given, a search is expected.
+</blockquote>
 
-- 💬 I'm open to chat in regards to **Web Development.**
+---
 
-- 📫 How to reach me **ivytaglife@gmail.com**
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,laravel,aws,gcp,git,figma,blender,photoshop,postgres,mysql,sass,webpack,selenium,bootstrap,oracle,zapier,flutter" />
+</div>
 
-- ⚡ Fun fact remains that **Life in coding is awesome...**
+<h2 align="center">⚡️ Relive your ideas in reality with us; may your days always remain joyous and your code always compile on the first try! ⚡️</h2>
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/company/ivytag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivytag" height="30" width="40" /></a>
-<a href="https://twitter.com/in/ivytag101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="ivytag" height="30" width="40" /></a>
+---
 
+## 🎮 About Me
+
+- **Football mobile games addict ⚽️, puzzle game explorer 🧩, and a real-life footballer.**  
+- Coding is my creative playground—where bugs are just puzzles in disguise!  
+- 🍫 **By day:** Overseer/Operator in chocolate & biscuit production (yes, I really do get paid to work with chocolate!)  
+- 💻 **By night:** Software Engineer & Computer Science BSc Student
+
+---
+
+## 🚀 Projects & Builds
+
+- **Norra** — AI Football Predictor (Harness machine learning to predict football match outcomes. Let the games begin!)
+- **Ecommerce WebApp** — Full-featured platform for online selling, payments, and product management.
+- **Quicknote Pro** — Lightning-fast note-taking app for the creative and the organized.
+- **CryptoForge** — Create, mint, and sell your own Crypto & NFT collections with ease.
+- **Watchback Naija** — Real-time incident and situation reporting for a safer Nigeria.
+- **Chotam** — A dynamic database for employees and employers to vet, connect, and find jobs securely.
+- **WordPress Plugins** — Numerous powerful, custom plugins for every business need.
+- **ivytag-theme** — My custom VSCode theme, available on the Marketplace for Visual Studio Code and GitHub Codespaces!
+
+[See more at #ivytag world](#ivytag.world) — More project links coming soon!
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 Building blockchain & social marketing apps  
+  [Check out my Digital Wrld Clock and Music player dedicated to Juice Wrld](https://ivytag101.github.io/dwc)
+- 🌱 Currently seeking my BSc in **Computer Science**
+- 👨‍💻 Project links coming soon at [#ivytag world](#ivytag.world)
+- 💬 Always open for a chat about **Web Development** or anything tech!
+- 📫 Email me: **mikewillkraft@gmail.com**  
+- ⚡ Fun fact: Coding is awesome... and so is chocolate.
+
+---
+
+## 📈 Commit Graph Vibe Check
+
+![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelkraft&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelkraft&layout=compact&theme=tokyonight&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mikaelkraft&theme=tokyonight&hide_title=true)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/company/ivytag" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ivytag-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/in/ivytag101" target="blank"><img src="https://img.shields.io/badge/Twitter-@ivytag101-1da1f2?style=flat-square&logo=twitter" alt="Twitter" /></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=ivytag.ivytag-theme" target="blank"><img src="https://img.shields.io/badge/VSCode%20Theme-ivytag--theme-blueviolet?style=flat-square&logo=visualstudiocode" alt="VSCode Ivytag Theme" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,laravel,aws,gcp,git,figma,blender,photoshop,postgres,mysql,sass,webpack,selenium,bootstrap,oracle,zapier,flutter" />
+</p>
+
+---
+
+<details>
+<summary>✨ More About Me (Click to expand!)</summary>
+
+- I sometimes eat more cookies than I code… and that’s saying something.
+- My favorite debugging fuel: chocolate biscuits + lo-fi beats.
+- If you want to talk football, games, or code, you’re in the right place!
+
+</details>
+
+---
+
 <!---
 Ivytag101/home is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to check out your changes.
 --->
