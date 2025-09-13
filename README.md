@@ -23,20 +23,20 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,laravel,aws,gcp,git,figma,blender,photoshop,postgres,mysql,sass,webpack,selenium,bootstrap,oracle,zapier,flutter" />
 </div>
 
-<h2 align="center">⚡️ Relive your ideas in reality with us; may your days always remain joyous and your code always compile on the first try! ⚡️</h2>
+<h2 align="center">⚡️ Relive your ideas in reality with me; may your days always remain joyous and your code always compile on the last try! ⚡️</h2>
 
 ---
 
 ## 🎮 About Me
 
-- **Football mobile games addict ⚽️, puzzle game explorer 🧩, and a real-life footballer.**  
+- **Football mobile games addict ⚽️, puzzle game explorer 🧩, and a real-life leisure footballer.**  
 - Coding is my creative playground—where bugs are just puzzles in disguise!  
 - 🍫 **By day:** Overseer/Operator in chocolate & biscuit production (yes, I really do get paid to work with chocolate!)  
 - 💻 **By night:** Software Engineer & Computer Science BSc Student
 
 ---
 
-## 🚀 Projects & Builds
+## 🚀 Projects & Builds in Progress
 
 - **Norra** — AI Football Predictor (Harness machine learning to predict football match outcomes. Let the games begin!)
 - **Ecommerce WebApp** — Full-featured platform for online selling, payments, and product management.
@@ -47,16 +47,16 @@
 - **WordPress Plugins** — Numerous powerful, custom plugins for every business need.
 - **ivytag-theme** — My custom VSCode theme, available on the Marketplace for Visual Studio Code and GitHub Codespaces!
 
-[See more at #ivytag world](#ivytag.world) — More project links coming soon!
+[See more at #ivytag world](https://mikaelkraft.github.io/ivytag) — More project links coming soon!
 
 ---
 
 ## 🚀 What I'm Up To
 
 - 🔭 Building blockchain & social marketing apps  
-  [Check out my Digital Wrld Clock and Music player dedicated to Juice Wrld](https://ivytag101.github.io/dwc)
+  [Check out my Digital Wrld Clock and Music player dedicated to Juice Wrld](https://mikaelkraft.github.io/dwc)
 - 🌱 Currently seeking my BSc in **Computer Science**
-- 👨‍💻 Project links coming soon at [#ivytag world](#ivytag.world)
+- 👨‍💻 Project links coming soon at [#ivytag world](https://mikaelkraft.github.io/ivytag)
 - 💬 Always open for a chat about **Web Development** or anything tech!
 - 📫 Email me: **mikewillkraft@gmail.com**  
 - ⚡ Fun fact: Coding is awesome... and so is chocolate.
@@ -102,6 +102,6 @@
 ---
 
 <!---
-Ivytag101/home is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mikaelkraft/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to check out your changes.
 --->
