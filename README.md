@@ -29,7 +29,7 @@
 
 ## 🎮 About Me
 
-- **Football mobile games addict ⚽️, puzzle game explorer 🧩, and a real-life leisure footballer.**  
+- **Mobile foitball games addict ⚽️, puzzle game explorer 🧩, and a real-life leisure footballer.**  
 - Coding is my creative playground—where bugs are just puzzles in disguise!  
 - 🍫 **By day:** Overseer/Operator in chocolate & biscuit production (yes, I really do get paid to work with chocolate!)  
 - 💻 **By night:** Software Engineer & Computer Science BSc Student
@@ -45,7 +45,7 @@
 - **Watchback Naija** — Real-time incident and situation reporting for a safer Nigeria.
 - **Chotam** — A dynamic database for employees and employers to vet, connect, and find jobs securely.
 - **WordPress Plugins** — Numerous powerful, custom plugins for every business need.
-- **ivytag-theme** — My custom VSCode theme, available on the Marketplace for Visual Studio Code and GitHub Codespaces!
+- **ivytag-theme** @ [Ivytag Theme](https://marketplace.visualstudio.com/items?itemName=MikaelKraft.ivytag-theme) — My custom VSCode theme, available on the Marketplace for Visual Studio Code and GitHub Codespaces!
 
 [See more at #ivytag world](https://mikaelkraft.github.io/ivytag) — More project links coming soon!
 
