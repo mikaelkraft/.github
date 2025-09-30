@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Fanciful, futuristic cyberpunk/cybertech gif for a captivating intro -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Futuristic Cyberpunk Animation" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+Operator+%7C+Student;Footballer+%E2%9A%BD%EF%B8%8F+%7C+Puzzle+Enthusiast+%F0%9F%8E%B2;Let's+build+something+awesome+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Operator+%7C+Student;Footballer+%E2%9A%BD%EF%B8%8F+%7C+Puzzle+Enthusiast+%F0%9F%8E%B2;Let's+build+something+awesome+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,laravel,aws,gcp,git,figma,blender,photoshop,postgres,mysql,sass,webpack,selenium,bootstrap,oracle,zapier,flutter" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,laravel,aws,gcp,git,figma,blender,photoshop,postgres,mysql,sass,webpack,selenium,bootstrap,oracle,zapier,flutter,blockchain" />
 </div>
 
 <h2 align="center">⚡️ Relive your ideas in reality with me; may your days always remain joyous and your code always compile on the last try! ⚡️</h2>
