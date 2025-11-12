@@ -23,13 +23,13 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,laravel,aws,gcp,git,figma,blender,photoshop,postgres,mysql,sass,nextjs,vite,webpack,selenium,bootstrap,oracle,zapier,supabase,flutter,java,webassembly,webgl" />
 </div>
 
-<h2 align="center">⚡️ Relive your ideas in reality with me; may your days always remain joyous and your code always compile on the last try! ⚡️</h2>
+<h2 align="center">⚡️ Relive your ideas in reality; may your days always remain joyous, and your code always compile on the last try! ⚡️</h2>
 
 ---
 
 ## 🎮 About Me
 
-- **Mobile foitball games addict ⚽️, puzzle game explorer 🧩, and a real-life leisure footballer.**  
+- **Mobile football game addict ⚽️, puzzle game explorer 🧩, and a real-life leisure footballer.**  
 - Coding is my creative playground—where bugs are just puzzles in disguise!  
 - 🍫 **By day:** Overseer/Operator in chocolate & biscuit production (yes, I really do get paid to work with chocolate!)  
 - 💻 **By night:** Software Engineer & Computer Science BSc Student
