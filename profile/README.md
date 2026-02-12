@@ -1,15 +1,6 @@
 <!-- 
 ✨ Make your day brighter with a dash of code, creativity, and cookies! ✨ 
 -->
-
-<div align="center">
-  <!-- Fanciful, futuristic cyberpunk/cybertech gif for a captivating intro -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Futuristic Cyberpunk Animation" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=750&lines=Fullstack+Developer+%7C+Operator+%7C+Student;Footballer+%E2%9A%BD%EF%B8%8F+%7C+Puzzle+Enthusiast+%F0%9F%8E%B2;Let's+build+something+awesome+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
----
-
 <em>
   Know this... Know peace...
 </em>
