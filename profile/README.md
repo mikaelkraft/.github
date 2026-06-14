@@ -11,7 +11,7 @@
 ---
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,git,figma,postgres,mysql,sass,vite,nextjs,bootstrap,supabase,flutter,java,webgl" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,git,postgres,mysql,sass,vite,nextjs,bootstrap,supabase,flutter,java,webgl" />
 </div>
 
 <h2 align="center">⚡️ Relive your ideas in reality; may your days always remain joyous, and your code always compile on the last try! ⚡️</h2>
@@ -76,7 +76,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,git,figma,postgres,mysql,sass,vite,nextjs,bootstrap,supabase,flutter,java,webgl" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,git,postgres,mysql,sass,vite,nextjs,bootstrap,supabase,flutter,java,webgl" />
 </p>
 
 ---
