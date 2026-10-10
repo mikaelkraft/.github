@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,git,postgres,mysql,sass,vite,nextjs,bootstrap,supabase,flutter,java,webgl" />
 </div>
 
-<h2 align="center">⚡️ Relive your ideas in reality; may your days always remain joyous, and your code always compile on the last try! ⚡️</h2>
+<h2 align="center">⚡️ Relive the ideas, and let the code compile on the last try! ⚡️</h2>
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🚀 Projects & Builds in Progress
 
-- **[Norra AI](https://mynorra.xyz)** — AI Football Predictor (Harness machine learning to predict football match outcomes. Let the games begin!)
+- **[Norra AI](https://mynorra.xyz)** — AI Football Predictor (Quantum ensemble classifiers and machine learning to predict football match outcomes. Let the games begin!)
 - **Ecommerce WebApp** — Full-featured platform for online selling, payments, and product management.
 - **Quicknote Pro** — Lightning-fast note-taking app for the creative and the organized.
 - **CryptoForge** — Create, mint, and sell your own Crypto & NFT collections with ease.
@@ -47,7 +47,7 @@
 - 🔭 Building blockchain & social marketing apps  
   [Check out my Digital Wrld Clock and Music player dedicated to Juice Wrld](https://mikaelkraft.github.io/dwc)
 - 🌱 Currently seeking my BSc in **Computer Science**
-- 👨‍💻 Project links coming soon at [#ivytag world](https://mikaelkraft.github.io/ivytag)
+- 👨‍💻 Project links coming soon at [#ivytag world](https://ivytag.vercel.app)
 - 💬 Always open for a chat about **Web Development** or anything tech!
 - 📫 Email me: **mikewillkraft@gmail.com**  
 - ⚡ Fun fact: Coding is awesome... and so is chocolate.
