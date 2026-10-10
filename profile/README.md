@@ -22,14 +22,14 @@
 
 - **Mobile football game addict ⚽️, puzzle game explorer 🧩, and a real-life leisure footballer.**  
 - Coding is my creative playground—where bugs are just puzzles in disguise!  
-- 🍫 **By day:** Supervisor/Operator in chocolate & biscuit production (yes, I really do get paid to work with chocolate!)  
+- 🍫 **By day:** Overseer/Operator in chocolate & biscuit production (yes, I really do get paid to work with chocolate!)  
 - 💻 **By night:** Software Engineer & Computer Science BSc Student
 
 ---
 
 ## 🚀 Projects & Builds in Progress
 
-- **Norra AI** — AI Football Predictor (Harness machine learning to predict football match outcomes. Let the games begin!)
+- **[Norra AI](https://mynorra.xyz)** — AI Football Predictor (Harness machine learning to predict football match outcomes. Let the games begin!)
 - **Ecommerce WebApp** — Full-featured platform for online selling, payments, and product management.
 - **Quicknote Pro** — Lightning-fast note-taking app for the creative and the organized.
 - **CryptoForge** — Create, mint, and sell your own Crypto & NFT collections with ease.
